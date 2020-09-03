@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**Wade-Roberts/Wade-Roberts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am a developer that is just starting out, is always learning and seeking employment and projects to contribute to!
+---
+- 🔭 I’m currently working on completing FreeCodeCamp's Responsive Web Development Cert
+- 🌱 I’m currently learning Linux, Cyber Security Fundamentals & Web Development 
+- 👯 I’m looking to collaborate on any open-source project to give back to the community or group projects
+- 🤔 I’m looking for help with gaining Employment in the Field
+- 💬 Ask me about anything you would like
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love Fantasy and Table Top Role Playing Games
+- ---
+[![Wade's github stats](https://github-readme-stats.vercel.app/api?username=Wade-Roberts&count_private=true&show_icons=true&theme=dracula&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+---
+### Get in contact with me!
+[LinkedIn](https://www.linkedin.com/in/wade-roberts-development/)
