@@ -7,10 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Fantasy and Table Top Role Playing Games
 - ---
-### Listening on Spotify
-![Spotify](https://novatorem-git-master.wade-roberts.vercel.app/api/spotify)
 
----
 ### GitHub Stats
 ![Wade's github stats](https://github-readme-stats-murex-five.vercel.app/api?username=Wade-Roberts&count_private=true&show_icons=true&theme=dracula&hide=stars)
 
