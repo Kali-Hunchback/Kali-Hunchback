@@ -1,6 +1,6 @@
 ### I am a developer that is just starting out, is always learning and seeking employment and projects to contribute to!
 ---
-- 🔭 I’m currently undtaking a bachelors degree in Information Technology Majoring in Cyber Security and Forensics
+- 🔭 I’m currently undertaking a bachelors degree in Information Technology Majoring in Cyber Security and Forensics
 - 🌱 I’m currently learning Linux, Cyber Security Fundamentals, Networking and Software Development 
 - 👯 I’m looking to collaborate on any open-source project to give back to the community or group projects
 - 💬 Ask me about anything you would like
