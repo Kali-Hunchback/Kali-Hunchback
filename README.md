@@ -13,5 +13,5 @@
 
 ---
 ### Get in contact with me!
-[LinkedIn](https://www.linkedin.com/in/wade-roberts-development/)
-[Medium](https://kali-hunchback.medium.com/)
+- [LinkedIn](https://www.linkedin.com/in/wade-roberts-development/)
+- [Medium](https://kali-hunchback.medium.com/)
